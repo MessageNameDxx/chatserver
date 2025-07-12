@@ -1,0 +1,4 @@
+/home/dxx/公共/Chat/chatserver/build/CMakeFiles/chat_server.dir
+/home/dxx/公共/Chat/chatserver/build/CMakeFiles/chat_client.dir
+/home/dxx/公共/Chat/chatserver/build/CMakeFiles/edit_cache.dir
+/home/dxx/公共/Chat/chatserver/build/CMakeFiles/rebuild_cache.dir
