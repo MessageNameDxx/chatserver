@@ -1,0 +1,8 @@
+#定义一个SRC_LIST变量，存储所有源文件
+aux_source_directory(. SRC_LIST)
+
+#指向生成可执行文件
+add_executable(ChatClient ${SRC_LIST})
+
+#链接库
+target_link_libraries(ChatClient netlib pthread)
